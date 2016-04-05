@@ -1,0 +1,22 @@
+{
+  "name": "imooc-learn",
+  "version": "1.0.0",
+  "description": "imooc learn source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyang/imooc-learn.git"
+  },
+  "keywords": [
+    "imooc"
+  ],
+  "author": "ymyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyang/imooc-learn/issues"
+  },
+  "homepage": "https://github.com/ymyang/imooc-learn#readme"
+}
